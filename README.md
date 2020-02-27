@@ -13,4 +13,4 @@ A repository dedicated for storing TensorFlow colabs I'm developing to practise 
 6. ```Cats vs Dogs Classification using Transfer Learning with TensorFlow Hub```
 7. ```Flower Classification With Data Augmentation```
 8. ```Flower Classification with Transfer Learning```
-9. ```Saving and Loading Models of Cats and Dogs Classification.ipynb```
+9. ```Saving and Loading Models of Cats and Dogs Classification```
